@@ -16,8 +16,8 @@
     "express-handlebars": "^4.0.4",
     "lodash": "^4.17.15",
     "mongojs": "^3.1.0",
-    "mongoose": "^5.9.1",
+    "mongoose": "^5.9.14",
     "moongoose": "0.0.5",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.3"
   }
 }
